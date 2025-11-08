@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ytyimin
-- 👀 I’m interested in nxp bluetooth technology
-- 🌱 I’m currently learning IOT programming
-- 💞️ I’m looking to collaborate on optimization models and games
+- 👀 I’m interested in supply chain risk managerment and sustainabilility strategies
+- 💞️ I’m looking to collaborate on supply chain optimization models and studies
 - 📫 How to reach me ytyimin@gmail.com
 
 <!---
